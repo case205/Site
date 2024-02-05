@@ -121,6 +121,7 @@ div {
     .welcometosite {
         font-size: 26px;
         padding-right: 140px;
+        display: none;
     }
 
 }@media (min-width: 768px) {
